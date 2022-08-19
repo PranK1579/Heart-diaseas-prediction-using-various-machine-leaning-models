@@ -8,7 +8,7 @@ Goal of the project is to predict wether the pateint will develope any heart dis
 
 # Modelling and Model evaluation
 
-DECISION TREE CLASSIFIER
+DECISION TREE CLASSIFIER \n
 LOGISTIC REGRESSION 
 RANDOM FOREST CLASSIFIER
 GRADIENT BOOSTING CLASSIFIER
