@@ -8,18 +8,18 @@ Goal of the project is to predict wether the pateint will develope any heart dis
 
 # Modelling and Model evaluation
 
-DECISION TREE CLASSIFIER /n
-LOGISTIC REGRESSION 
-RANDOM FOREST CLASSIFIER
-GRADIENT BOOSTING CLASSIFIER
+DECISION TREE CLASSIFIER <br />
+LOGISTIC REGRESSION <br />
+RANDOM FOREST CLASSIFIER <br />
+GRADIENT BOOSTING CLASSIFIER <br />
 
 
 
 # relevant Libraries
-pandas
-numpy
-matplotlib
-seaborn
+pandas <br />
+numpy <br />
+matplotlib <br />
+seaborn <br />
 
 # Conclusion
 I have found the hidden data insights using visualization and compare different machine learning models based on accuracy and it is found that Decision Tree and Random Forest work efficiently for this data set with accuracy 100%
